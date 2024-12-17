@@ -1,4 +1,6 @@
 # Realtime-Calculator
+**JUST RUN THE INDEX.HTML FILE IN BROWSER**
+
 API based Realtime Calculator
 
 A simple web-based calculator that uses HTML, CSS, JavaScript, and the Math.js API to calculate the sum of two numbers in real time. The design is enhanced with clean and modern CSS for an elegant user experience.
